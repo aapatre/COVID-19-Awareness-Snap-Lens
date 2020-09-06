@@ -1,0 +1,1005 @@
+{
+    "lens_id": "ec2f41f8-1517-4fd6-a70b-b6f16fc42fe7",
+    "document_id": "k2I-CEegWvq0gpasa3fy",
+    "original_document_id": "k2I-CEegWvq0gpasa3fy",
+    "version": "23",
+    "lastChanged": "1591021645950",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "2020-06-01T14:19:42.684Z",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Color Correction"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Scripts",
+                        "ShowHint"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Beauty"
+                    ],
+                    [
+                        "background"
+                    ],
+                    [
+                        "background blur"
+                    ],
+                    [
+                        "corona go low poly"
+                    ],
+                    [
+                        "corona go low poly",
+                        "Animations"
+                    ],
+                    [
+                        "corona go low poly",
+                        "Materials"
+                    ],
+                    [
+                        "corona go low poly",
+                        "Materials",
+                        "Material"
+                    ],
+                    [
+                        "corona go low poly",
+                        "Meshes"
+                    ],
+                    [
+                        "corona go low poly",
+                        "Meshes",
+                        "Cube"
+                    ],
+                    [
+                        "corona go low poly",
+                        "corona go low poly"
+                    ],
+                    [
+                        "echopark_diff"
+                    ],
+                    [
+                        "echopark_spec"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1590351611553670:27825",
+                    "1590352505578747:37834"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "b3ce0946e938fac11a7089dcbb8bf4e3",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                "lens_hint_voice_changer"
+            ],
+            "lens": "Go Corona",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1590351611553670:27825",
+                    "1590352312796808:29454",
+                    "1590352337134195:30352",
+                    "1590356608714944:4587"
+                ]
+            ]
+        },
+        "UiComponent": {
+            "active_graph_material": "-1:-1",
+            "active_graph_pass": "-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1590351623598357:28098",
+                    "name": "Files\/File3.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1590351623632661:28108",
+                    "name": "Files\/File4",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1590351623861063:28217",
+                    "name": "corona go low poly",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1590352770311900:40348",
+                    "name": "Files\/File9.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1590397506187187:7255",
+                    "name": "Files\/File11",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1590397506325447:7286",
+                    "name": "Files\/File13.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1590398577515105:26115",
+                    "name": "Files\/File15.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1590410886236453:4948",
+                    "name": "Files\/File16.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1590397854846032:18635",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1590397854928514:18769",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1590351611553290:27824",
+                "4": "1590351611553670:27825",
+                "5": "1590351611561344:27845",
+                "6": "1590351624350567:28253",
+                "7": "1590351624356277:28265",
+                "8": "1590351624364452:28288",
+                "9": "1590352312796174:29453",
+                "10": "1590352312796808:29454",
+                "11": "1590352378116726:33502",
+                "12": "1590352406828530:35022",
+                "13": "1590352505552441:37769",
+                "14": "1590352937984030:44393",
+                "15": "1590397505480398:7191",
+                "16": "1590397854843364:18633",
+                "17": "1590397854928217:18768",
+                "18": "1590398577556320:26127"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1",
+                    "v": "Files\/File1.png"
+                },
+                {
+                    "k": "2",
+                    "v": "Files\/File2.png"
+                },
+                {
+                    "k": "3",
+                    "v": "Files\/File3.mesh"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.lsmat"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.oprfb"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.fbx"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.oprfb"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.jpg"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.jpg"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.lsmat"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.png"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.png"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.js"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.jpg"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.jpg"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "echopark_diff.png"
+                    },
+                    {
+                        "k": "2",
+                        "v": "echopark_spec.png"
+                    },
+                    {
+                        "k": "32",
+                        "v": "corona go low poly.fbx"
+                    },
+                    {
+                        "k": "33",
+                        "v": "..\/AdditionalFiles\/corona go low poly\/Materials"
+                    },
+                    {
+                        "k": "34",
+                        "v": "..\/AdditionalFiles\/corona go low poly\/Materials\/Material.lsmat"
+                    },
+                    {
+                        "k": "35",
+                        "v": "background.jpg"
+                    },
+                    {
+                        "k": "36",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "37",
+                        "v": "Textures\/Beauty.png"
+                    },
+                    {
+                        "k": "38",
+                        "v": "Color Correction.lsmat"
+                    },
+                    {
+                        "k": "39",
+                        "v": "Scripts"
+                    },
+                    {
+                        "k": "40",
+                        "v": "Scripts\/ShowHint.js"
+                    },
+                    {
+                        "k": "41",
+                        "v": "background blur.jpg"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "32",
+                        "v": "3d446f3601e9691ac31a5065b2fc5ba2"
+                    },
+                    {
+                        "k": "34",
+                        "v": "3ca44aa9c7426c9b868e6f1547ddd251"
+                    },
+                    {
+                        "k": "35",
+                        "v": "a78cfa64a768d9d6852058ca763de5c1"
+                    },
+                    {
+                        "k": "37",
+                        "v": "a276acaed7d65e4c1b56181771677a77"
+                    },
+                    {
+                        "k": "38",
+                        "v": "433e8828a43d2ee9f52ef7441564090d"
+                    },
+                    {
+                        "k": "40",
+                        "v": "7d3fc87924048dc888fc14593acfc785"
+                    },
+                    {
+                        "k": "41",
+                        "v": "cd2b1da9bb8e85dd098b8469efa09c3d"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-05-25T18:24:16",
+                        "name": "Public",
+                        "hash": "17b8321dbc5b663191dcb569d05d0df2",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-25T17:57:42",
+                                "name": "background blur.jpg",
+                                "hash": "cd2b1da9bb8e85dd098b8469efa09c3d",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-25T02:09:09",
+                                "name": "background.jpg",
+                                "hash": "a78cfa64a768d9d6852058ca763de5c1",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-25T18:24:16",
+                                "name": "Color Correction.lsmat",
+                                "hash": "433e8828a43d2ee9f52ef7441564090d",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-25T01:45:27",
+                                "name": "corona go low poly.fbx",
+                                "hash": "3d446f3601e9691ac31a5065b2fc5ba2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:10",
+                                "name": "echopark_diff.png",
+                                "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:10",
+                                "name": "echopark_spec.png",
+                                "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:10",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-05-25T14:52:57",
+                                "name": "Scripts",
+                                "hash": "e36b547babafad324ffee54b76926318",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-05-25T14:52:57",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-05-25T14:52:57",
+                                        "name": "ShowHint.js",
+                                        "hash": "7d3fc87924048dc888fc14593acfc785",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-05-25T14:35:06",
+                                "name": "Textures",
+                                "hash": "7fd79ae1b8500bffe2c72e5e9516626b",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-05-25T14:35:06",
+                                        "name": "Beauty.png",
+                                        "hash": "a276acaed7d65e4c1b56181771677a77",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-05-25T14:35:06",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_diff",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "8",
+                        "dependency": "0",
+                        "uid": "1517446348230286:84828",
+                        "fileId": "1",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_spec",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "9",
+                        "dependency": "0",
+                        "uid": "1517446348234137:84840",
+                        "fileId": "2",
+                        "originalId": "18446744073709551615",
+                        "publicId": "2",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "corona go low poly",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "32",
+                        "source": "D:\/Artworks\/Blender\/corona go low poly.fbx",
+                        "additional": {
+                            "materialMapping": [
+                                {
+                                    "k": "Material",
+                                    "v": "1590351623632661:28108"
+                                }
+                            ]
+                        },
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Cube",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "10",
+                                        "dependency": "1",
+                                        "uid": "1590351623598357:28098",
+                                        "fileId": "3",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "C:\/Users\/antar\/AppData\/Local\/Temp\/Lens Studio-urSIML\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Animations",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": ""
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "33",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Material",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "11",
+                                        "dependency": "0",
+                                        "uid": "1590351623632661:28108",
+                                        "fileId": "4",
+                                        "originalId": "5",
+                                        "publicId": "34",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "corona go low poly",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "12",
+                                "dependency": "1",
+                                "uid": "1590351623861063:28217",
+                                "fileId": "6",
+                                "originalId": "8",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "background",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "13",
+                        "dependency": "0",
+                        "uid": "1590352770311900:40348",
+                        "fileId": "9",
+                        "originalId": "10",
+                        "publicId": "35",
+                        "source": "C:\/Users\/antar\/Desktop\/background.jpg",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "36",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Beauty",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "15",
+                                "dependency": "0",
+                                "uid": "1590397506325447:7286",
+                                "fileId": "13",
+                                "originalId": "14",
+                                "publicId": "37",
+                                "source": "C:\/Users\/antar\/AppData\/Local\/Temp\/Lens Studio-uGOSey\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Color Correction",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "14",
+                        "dependency": "0",
+                        "uid": "1590397506187187:7255",
+                        "fileId": "11",
+                        "originalId": "12",
+                        "publicId": "38",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "39",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "ShowHint",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "16",
+                                "dependency": "0",
+                                "uid": "1590398577515105:26115",
+                                "fileId": "15",
+                                "originalId": "18446744073709551615",
+                                "publicId": "40",
+                                "source": "C:\/Users\/antar\/AppData\/Local\/Temp\/Lens Studio-uGOSey\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "background blur",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "17",
+                        "dependency": "0",
+                        "uid": "1590410886236453:4948",
+                        "fileId": "16",
+                        "originalId": "17",
+                        "publicId": "41",
+                        "source": "C:\/Users\/antar\/Desktop\/background blur.jpg",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1590352378116726:33502"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1590351624350567:28253",
+                        "v": {
+                            "prefab": "1590351623861063:28217",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1590351623832818:28123",
+                                    "v": "1590351624350567:28253"
+                                },
+                                {
+                                    "k": "1590351623833531:28125",
+                                    "v": "1590351624356277:28265"
+                                },
+                                {
+                                    "k": "1590351623834058:28127",
+                                    "v": "1590351624361972:28273"
+                                },
+                                {
+                                    "k": "1590351623836077:28139",
+                                    "v": "1590351624364452:28288"
+                                },
+                                {
+                                    "k": "1590351623836619:28141",
+                                    "v": "1590351624375838:28302"
+                                },
+                                {
+                                    "k": "1590351623838678:28150",
+                                    "v": "1590351624378315:28312"
+                                },
+                                {
+                                    "k": "1590351623839309:28152",
+                                    "v": "1590351624389844:28326"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": [
+                {
+                    "k": "1590351623861063:28217",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1590351623832818:28123"
+                        },
+                        {
+                            "k": [
+                                "Camera"
+                            ],
+                            "v": "1590351623838678:28150"
+                        },
+                        {
+                            "k": [
+                                "Camera",
+                                "Component.Camera"
+                            ],
+                            "v": "1590351623839309:28152"
+                        },
+                        {
+                            "k": [
+                                "Cube"
+                            ],
+                            "v": "1590351623833531:28125"
+                        },
+                        {
+                            "k": [
+                                "Cube",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1590351623834058:28127"
+                        },
+                        {
+                            "k": [
+                                "Light"
+                            ],
+                            "v": "1590351623836077:28139"
+                        },
+                        {
+                            "k": [
+                                "Light",
+                                "Component.LightSource"
+                            ],
+                            "v": "1590351623836619:28141"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
